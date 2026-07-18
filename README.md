@@ -1,13 +1,9 @@
 # Github Nomic
-
-[![Join the chat at https://gitter.im/mburns/nomic](https://badges.gitter.im/mburns/nomic.svg)](https://gitter.im/mburns/nomic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/mburns/nomic.svg?branch=master)](https://travis-ci.org/mburns/nomic)
-
 This is an instance of the game [Nomic](https://en.wikipedia.org/wiki/Nomic) driven by Github interactions:
 
-* [Players](https://github.com/mburns/nomic/wiki/Player) are Github users that have [forked this repo](#joining-the-game)
-* [Rules](https://github.com/mburns/nomic/wiki/rules) are stored as Markdown documents
-* [Votes](https://github.com/mburns/nomic/wiki/Voting) are handled as (+1/-1) comments and discussion in [Pull Requests](https://github.com/mburns/nomic/pulls)
+* [Players](https://github.com/Hydroyeti1/nomicgame/wiki/Player) are Github users that have [forked this repo](#joining-the-game)
+* [Rules](https://github.com/Hydroyeti1/nomicgame/wiki/rules) are stored as Markdown documents
+* [Votes](https://github.com/Hydroyeti1/nomicgame/wiki/Voting) are handled as (+1/-1) comments and discussion in [Pull Requests](https://github.com/Hydroyeti1/nomicgame/pulls)
 
 ## What is Nomic
 
@@ -18,23 +14,23 @@ This is an instance of the game [Nomic](https://en.wikipedia.org/wiki/Nomic) dri
 
 Gameplay consists of:
 
-1. [Follow the existing rules](/rules/rule101.md). Questions can be asked via [Issues](https://github.com/mburns/nomic/issues).
+1. [Follow the existing rules](/rules/rule101.md). Questions can be asked via [Issues](https://github.com/Hydroyeti1/nomicgame/issues).
 2. A Player [proposes a rule-change](https://github.com/mburns/nomic/blob/master/.github/CONTRIBUTING.md) to an existing (or entirely new) rule via Pull Request.
-3. [Players](https://github.com/mburns/nomic/wiki/Player) [discuss](/rules/rule111.md) and [vote](/rules/rule105.md) on proposals, earning [points in the process](/SCOREBOARD.md).
+3. [Players](https://github.com/Hydroyeti1/nomicgame/wiki/Player) [discuss](/rules/rule111.md) and [vote](/rules/rule105.md) on proposals, earning [points in the process](/SCOREBOARD.md).
 
 The game is won when the first user reaches [+200 points](/rules/rule208.md) or is [stuck on a turn that is an impossible position](/rules/rule213.md) and it cannot be resolved through discussion or jurisdiction within the game.
 
 ### Joining the game
 
-1. [Vote](https://github.com/mburns/nomic/blob/master/.github/CONTRIBUTING.md#voting)
-2. [Suggests a rule-change](https://github.com/mburns/nomic/blob/master/.github/CONTRIBUTING.md#submit-a-rule-change).
+1. [Vote](https://github.com/Hydroyeti1/nomicgame/blob/master/.github/CONTRIBUTING.md#voting)
+2. [Suggests a rule-change](https://github.com/Hydroyeti1/nomicgame/blob/master/.github/CONTRIBUTING.md#submit-a-rule-change).
 
 ### Minimum rules worth knowing
 
 Here are the basic set of rules that describe the parameters of the game. All rules are subject to change (even 'immutable' rules), as that is central to the game.
 
 1. Players vote on and submit rule-changes to evolve the game
-2. Disputes are resolved through [Call For Judgments](https://github.com/mburns/nomic/blob/master/.github/CONTRIBUTING.md#call-for-judgment) by choosing another Player as a nuetral arbitrator.
+2. Disputes are resolved through [Call For Judgments](https://github.com/Hydroyeti1/nomicgame/blob/master/.github/CONTRIBUTING.md#call-for-judgment) by choosing another Player as a nuetral arbitrator.
 
 #### Ground Rules
 
@@ -68,17 +64,7 @@ Rule | Mutable | Brief Description
 
 ### Meta game
 
-The [Wiki](https://github.com/mburns/nomic/wiki) and [Issues](https://github.com/mburns/nomic/issues) are intended to be 'out of bounds' or meta-game (in so much as such a thing is possible in Nomic) and used for coordination and clarification of the game's process by Players and spectators alike.
-
-## Influences
-
-These document's formatting was inspired by [chef-rfc](https://github.com/chef/chef-rfc).
-
-This repository was inspired by a [Hacker News comment](https://news.ycombinator.com/item?id=4889988) by [ChrisAcky](http://acky.vze.com/) and follows in the footsteps of other Nomic Github games:
-
-* [aasmith/nomic](https://github.com/aasmith/nomic)
-* [alokmenghrajani/nomic](https://github.com/alokmenghrajani/nomic)
-* [fkh/nomic](https://github.com/fkh/nomic)
+The [Wiki](https://github.com/Hydroyeti1/nomicgame/wiki) and [Issues](https://github.com/Hydroyeti1/nomicgame/issues) are intended to be 'out of bounds' or meta-game (in so much as such a thing is possible in Nomic) and used for coordination and clarification of the game's process by Players and spectators alike.
 
 ## Copyright
 
